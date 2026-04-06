@@ -48,6 +48,7 @@ def saludar(nombre, apellido = "Doe"):
     print(f"Hola, {nombre} {apellido} ¿como estas?")
 
 saludar("Peter", "Doe")
+saludar("Peter", "Pan")
 saludar("Jane")
 
 # 3. Argumentos Nombrados (keyword)

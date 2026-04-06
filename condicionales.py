@@ -79,3 +79,6 @@ if 5 == '5':
     print("Verdadero")
 else:
     print("Falso")
+    
+if 5 == 5:
+    pass
